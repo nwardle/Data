@@ -13,5 +13,11 @@
   "Services": [
     {"id": 1, "Telephone": "01234776998", "Service": "ADSL2+ Business Unlimited"},
     {"id": 2, "Telephone": "07678665678", "Service": "Office"}
+  ],
+  "Invoices": [
+    {"id": "T35625", "InvoiceDate": "20210301", "TotalAmount": "234.43", "Paid": true},
+    {"id": "T35625", "InvoiceDate": "20210401", "TotalAmount": "323.98", "Paid": true},
+    {"id": "T35625", "InvoiceDate": "20210501", "TotalAmount": "21.34", "Paid": true},
+    {"id": "T35625", "InvoiceDate": "20210601", "TotalAmount": "212.76", "Paid": true}
   ]
 }
