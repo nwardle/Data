@@ -4,14 +4,14 @@
     "CustomerName": "Telco R Us",
     "Address1": "1 RingRing Avenue",
     "Address2": "Telford",
-    "Address3": "Wilbershire",
-    "Telephones": [
-      {"id": 1, "Telephone": "01234776998"},
-      {"id": 2, "Telephone": "07678665678"}
-    ],
-    "Services": [
-      {"id": 1, "Telephone": "01234776998", "Service": "ADSL2+ Business Unlimited"},
-      {"id": 2, "Telephone": "07678665678", "Service": "Office"}
-    ]
-  }
+    "Address3": "Wilbershire"
+  },
+  "Telephones": [
+    {"id": 1, "Telephone": "01234776998"},
+    {"id": 2, "Telephone": "07678665678"}
+  ],
+  "Services": [
+    {"id": 1, "Telephone": "01234776998", "Service": "ADSL2+ Business Unlimited"},
+    {"id": 2, "Telephone": "07678665678", "Service": "Office"}
+  ]
 }
